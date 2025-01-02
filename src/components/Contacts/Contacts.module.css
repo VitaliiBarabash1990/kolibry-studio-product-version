@@ -1,0 +1,110 @@
+.contacts__container {
+  margin-top: 48px;
+  margin-bottom: 48px;
+}
+.contacts__container_title {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 24px;
+  text-align: center;
+  color: #0a0a0a;
+  margin-bottom: 24px;
+}
+.contacts__container_map_iframe {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  margin-bottom: 24px;
+}
+.contacts__container_info_list {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  gap: 16px;
+}
+.contacts__container_icon {
+  display: inline-flex;
+  fill: #f396e1;
+  width: 19px;
+  height: 19px;
+}
+.contacts__container_icon_last {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.contacts__container_info_item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.contacts__container_text {
+  text-align: left;
+}
+
+@media screen and (min-width: 768px) {
+  .contacts__container {
+    margin-top: 64px;
+    margin-bottom: 64px;
+  }
+  .contacts__container_title {
+    font-size: 36px;
+    margin-bottom: 48px;
+  }
+  .contacts__container_text {
+    font-size: 24px;
+  }
+  .contacts__container_section {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+  }
+  .contacts__container_map_iframe {
+    width: 50%;
+  }
+  .contacts__container_info_list {
+    width: 50%;
+    padding-right: 50px;
+    gap: 24px;
+  }
+  .contacts__container_info_item {
+    gap: 14px;
+  }
+  .contacts__container_icon {
+    width: 32px;
+    height: 32px;
+  }
+}
+@media screen and (min-width: 1280px) {
+  .contacts__container {
+    margin-top: 96px;
+    margin-bottom: 96px;
+  }
+  .contacts__container_title {
+    font-size: 48px;
+    margin-bottom: 64px;
+  }
+  .contacts__container_text {
+    font-size: 32px;
+  }
+  .contacts__container_section {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+  }
+  .contacts__container_map_iframe {
+    width: 50%;
+  }
+  .contacts__container_info_list {
+    gap: 32px;
+  }
+  .contacts__container_info_item {
+    gap: 18px;
+  }
+  .contacts__container_icon {
+    width: 40px;
+    height: 40px;
+  }
+}

@@ -1,0 +1,116 @@
+.master__container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 48px;
+  margin-bottom: 62px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.master__title {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 20px;
+  text-align: center;
+  color: var(--text-black);
+}
+
+.master__block {
+  margin-top: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 32px;
+}
+
+.master__img {
+  display: flex;
+  justify-content: right;
+  width: 100%;
+  max-width: 352px;
+  aspect-ratio: 4 / 4.1;
+  background-image: url('/img/main/image_3_x1.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.master__img img {
+  display: none;
+}
+
+.master__text {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--text-black);
+  white-space: pre-wrap;
+  text-align: left;
+}
+
+@media screen and (min-width: 768px) {
+  .master__container {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .master__container {
+    margin-top: 32px;
+    margin-bottom: 48px;
+  }
+  .master__block {
+    margin-top: 48px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .master__img {
+    min-width: 50%;
+    background-image: none;
+    min-height: 492px;
+    /* aspect-ratio: 3 / 4; */
+  }
+  .master__img img {
+    display: block;
+  }
+  .master__title {
+    font-size: 32px;
+  }
+  .master__descr {
+    /* margin: 64px 0px; */
+    width: 50%;
+  }
+  .master__text {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--text-black);
+    white-space: pre-wrap;
+    text-align: left;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .master__container {
+    margin-top: 96px;
+    margin-bottom: 96px;
+  }
+  .master__block {
+    gap: 64px;
+  }
+  .master__descr {
+    margin-right: 65px;
+    width: 50%;
+  }
+  .master__title {
+    font-size: 36px;
+  }
+  .master__text {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 28px;
+    color: var(--text-black);
+    white-space: pre-wrap;
+    text-align: left;
+  }
+}

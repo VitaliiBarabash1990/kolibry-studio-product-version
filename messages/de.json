@@ -1,0 +1,271 @@
+{
+  "Error": {
+    "description": "<p>Es ist leider ein Problem aufgetreten.</p><p>Du kannst versuchen <retry>diese Seite neu zu laden</retry>.</p>",
+    "title": "Etwas ist schief gelaufen!"
+  },
+  "IndexPage": {
+    "description": "Premium-Services und Kurse für Einsteiger und Profis.",
+    "title": "Wimpernverlängerung Meister mit 5 Jahren Erfahrung",
+    "button": "Melden Sie sich an"
+  },
+  "Master": {
+    "title": "Über den Meister",
+    "description": "Hallo!\n\nMein Name ist Anastasia und ich bin eine zertifizierte Wimpernverlängerungskünstlerin mit über 5 Jahren Erfahrung.\n\nMein Hauptziel ist es, jedem Kunden zu helfen, sich selbstbewusst und schön zu fühlen. Meine berufliche Reise begann mit einem aufrichtigen Wunsch Schönheit zu schaffen. Ich habe 5 Zertifikate auf meinem Konto, die eine hohe Qualifikation bestätigen."
+  },
+  "MyWork": {
+    "title": "Meine Werke auf Instagram",
+    "button": "Abonnieren"
+  },
+  "Accordion": {
+    "header_title": "Häufig gestellte Fragen",
+    "title": [
+      "Sind Wimpernverlängerungen sicher?",
+      "Welche Materialien werden verwendet?",
+      "Was ist in den Kursen enthalten?",
+      "Wie bereitet man sich auf den Eingriff vor?"
+    ],
+    "content": [
+      "Wimpernverlängerungen können sicher sein, wenn der Eingriff von einem professionellen Handwerker mit hochwertigen Materialien und Hygiene durchgeführt wird. Es ist wichtig, auf die Gesundheit der Augen zu achten und die Wimpern nach dem Eingriff zu pflegen.",
+      "Die Qualität des Verfahrens beginnt bereits bei den Materialien. Folgendes benötigen Sie auf jeden Fall:\nKlebeband – zum Schutz der Augenlider und zur Fixierung der unteren Wimpern.\nEntfetter und Entferner – Werkzeuge zur Vorbereitung der Wimpern vor der Verlängerung und für deren sicheres Entfernen.\nKleber – hochwertig, feuchtigkeits- und temperaturbeständig Veränderungen, weil keiner will, damit sich die Wimpern schon nach dem ersten Schwimmbadbesuch lösen.\nPinzetten – für unterschiedliche Verlängerungstechniken.\nWimpern – unterschiedlich lang, Dicke, Biegung.",
+      "Alle notwendigen Materialien und Werkzeuge für die Schulung. Methodische Handbücher (gedruckt oder elektronisch). Internationales Zertifikat. Unterstützung des Lehrers innerhalb eines Monats nach Ende des Kurses.",
+      "3 Tage vor der Wimpernverlängerung sollten Sie auf die Verwendung von Ölen, Seren und anderen Wimpernpflegeprodukten verzichten. Gleiches gilt für das Färben – wenn es notwendig ist, erfolgt es im Voraus, einige Tage vor dem Eingriff."
+    ]
+  },
+  "AccordionServices": {
+    "header_title": "Unsere Leistungen",
+    "title": [
+      "Wimpernverlängerungsdienste",
+      "Laminieren und Heben",
+      "Augenbrauenpflege",
+      "Zusätzliche Dienstleistungen"
+    ],
+    "content_1": {
+      "method": [
+        "Wimpernverlängerung im 1:1-Verfahren",
+        "Wimpernverlängerung 1:3",
+        "2D-Wimpernverlängerung",
+        "4D-Wimpernverlängerung",
+        "Wimpernverlängerung 5-6D",
+        "Wimpernverlängerung Mega Volume 7-9D VIP",
+        "Wimpernverlängerung mit L-Effekt",
+        "Kim Kardashian-Effekt",
+        "«Anime»-Effekt (3D, 4D, 5D)",
+        "Die Wirkung nasser Wimpern",
+        "Wimpernkorrektur bis zu 3 Wochen",
+        "Entfernung von Wimpern"
+      ],
+      "duration": [
+        "Dauer: 2 Stunden",
+        "Dauer: 2 Stunden 30 Minuten",
+        "Dauer: 2 Stunden 30 Minuten",
+        "Dauer: 2 Stunden 30 Minuten",
+        "Dauer: 2 Stunden 45 Minuten",
+        "Dauer: 3 Stunden",
+        "Dauer: 2 Stunden 45 Minuten",
+        "Dauer: 2 Stunden 45 Minuten",
+        "Dauer: 2 Stunden 45 Minuten",
+        "Dauer: 2 Stunden",
+        "Dauer: 1 Stunde 45 Minuten",
+        "Dauer: 30 Min"
+      ],
+      "price": [
+        "180 zl",
+        "200 zl",
+        "190 zl",
+        "210 zl",
+        "220 zl",
+        "240 zl",
+        "200 zl",
+        "220 zl",
+        "240 zl",
+        "190 zl",
+        "160 zl",
+        "40 zl"
+      ]
+    },
+    "content_2": {
+      "method": [
+        "Wimpernlaminierung",
+        "Wimpern- und Augenbrauenlifting + Botox"
+      ],
+      "duration": ["Dauer: 1 Stunde", "Dauer: 1 Stunde 30 Minuten"],
+      "price": ["150 zl", "250 zl"]
+    },
+    "content_3": {
+      "method": [
+        "Laminierung der Augenbrauen",
+        "Korrektur der Augenbrauen",
+        "Korrektur der Augenbrauen + Henna für die Augenbrauen",
+        "Henna für Augenbrauen",
+        "Puder-Henna für Augenbrauen"
+      ],
+      "duration": [
+        "Dauer: 50 Min",
+        "Dauer: 15 Min",
+        "Dauer: 30 Min",
+        "Dauer: 20 Min",
+        "Dauer: 15 Min"
+      ],
+      "price": ["140 zl", "35 zl", "70 zl", "35 zl", "35 zl"]
+    },
+    "content_4": {
+      "method": ["Henna für Wimpern", "Gesichtsdepilation"],
+      "duration": ["Dauer: 20 Min", "Dauer: 30 Min"],
+      "price": ["40 zl", "40 zl"]
+    },
+    "button": "Melden Sie sich an"
+  },
+  "gallery": {
+    "title": "Galerie der Werke"
+  },
+  "training": {
+    "title": "Schulungen",
+    "title_2": "Kursprogramm \"Professionelle Wimpernverlängerung\"",
+    "description": "Kursdauer: 3 Tage (18 Stunden)",
+    "title_3": "Abschlusseinheit",
+    "descr_3": [
+      "Abschlussprüfung (theoretisch und praktisch).",
+      "Übergabe der Abschlusszeugnisse.",
+      "Empfehlungen für den Einstieg: So finden Sie Ihre ersten Kunden und steigern Ihr Geschäft."
+    ],
+    "title_4": "Was ist im Kurspreis enthalten?",
+    "descr_4": [
+      "Alle notwendigen Materialien und Werkzeuge für die Schulung.",
+      "Methodische Handbücher (gedruckt oder elektronisch).",
+      "Internationales Zertifikat.",
+      "Unterstützung des Lehrers innerhalb eines Monats nach Ende des Kurses."
+    ],
+    "section_1": {
+      "section_title": "Tag 1\nTheoretischer Teil",
+      "section_text_head": [
+        "Einleitung: Grundlagen des Berufs",
+        "Hygiene und Sicherheit",
+        "Anatomie von Wimpern und Augen",
+        "Materialien und Werkzeuge",
+        "Arbeitsplatz des Meisters"
+      ],
+      "section_text": [
+        "Was sind Wimpernverlängerungen, die wichtigsten aktuellen Trends im Überblick (1:1, 2D-9D, \"Kim Kardashian\", Nasseffekt)",
+        "Hygienestandards und sterile Regeln für die Zusammenarbeit mit Kunden zur Konservierung",
+        "Wimpernarten: natürliche Eigenschaften und Strukturen So bestimmen Sie den optimalen Wimpernverlängerungsstil je nach Augenform.",
+        "Werkzeugübersicht: Pinzette, Kleber, Pads, Pinsel. Arten von falschen Wimpern: Dicke, Kurven, Länge, Material.",
+        "So organisieren Sie einen komfortablen und ergonomischen Arbeitsplatz. Psychologie der Kommunikation mit Kunden."
+      ],
+      "button": "Melden Sie sich an"
+    },
+    "section_2": {
+      "section_title": "Tag 2\nÜbung an Trainingsmodellen",
+      "section_text_head": [
+        "Vorbereitung auf den Eingriff",
+        "Aufbaumethoden",
+        "Lernen, mit Leim zu arbeiten",
+        "Arbeiten mit Augenformen"
+      ],
+      "section_text": [
+        "So bereiten Sie Naturwimpern richtig auf die Verlängerung vor. Demonstration und Übung der Wimpernvorbereitung.",
+        "Klassischer Aufbau (1:1). Volumetrische Augmentation (2D-9D). Modellierungseffekte: \"Katzenlook\", \"Wet-Effekt\", \"Kim Kardashian\".",
+        "Leimauftragstechnik. So vermeiden Sie das Verkleben von Wimpern.",
+        "Auswahl von Länge, Rundung und Volumen je nach Gesicht des Kunden. Üben Sie an Schaufensterpuppen."
+      ],
+      "button": "Melden Sie sich an"
+    },
+    "section_3": {
+      "section_title": "Tag 3\nÜben Sie an echten Modellen",
+      "section_text_head": [
+        "Kompletter Aufbauvorgang",
+        "Korrektur und Entfernung von Wimpern",
+        "Arbeiten Sie mit Problemsituationen",
+        "Fotos von Werken für das Portfolio"
+      ],
+      "section_text": [
+        "Arbeiten Sie unter Aufsicht des Lehrers mit dem ersten Modell. Fehlerbehebung und technische Verbesserung.",
+        "So führen Sie die Korrektur richtig durch. Die Technik zur sicheren Entfernung von Wimpernverlängerungen.",
+        "So korrigieren Sie Fehler und Asymmetrien. Arbeiten Sie mit schwierigen Kunden.",
+        "So fotografieren Sie Ihre Arbeit richtig. Aufbau Ihrer eigenen Marke in sozialen Netzwerken."
+      ],
+      "button": "Melden Sie sich an"
+    }
+  },
+  "contacts": {
+    "title": "Kontaktinformationen",
+    "schedule": "Arbeitsplan mit",
+    "google_map": "Plać wolnosci Swiności 5/8, Poland, 72-600 Swinoujscie"
+  },
+  "formik": {
+    "title": "Füllen Sie das Formular aus:",
+    "name": "Ihr Name:",
+    "email": "E-Mail:",
+    "number": "Telefonnummer:",
+    "placeholder": [
+      "Geben Sie einen Namen ein",
+      "Geben Sie Ihre E-Mail-Adresse ein",
+      "Geben Sie Ihre Telefonnummer ein"
+    ],
+    "yup": {
+      "name": [
+        "NUR WORTE",
+        "Mindestens 3 Zeichen!",
+        "Maximal 50 Zeichen!",
+        "Dieses Feld ist erforderlich!"
+      ],
+      "email": [
+        "Ungültige E-Mail!",
+        "Geben Sie eine gültige E-Mail-Adresse ein!"
+      ],
+      "number": [
+        "Falsche Telefonnummer!",
+        "Geben Sie die Nummer im Format +380123456789 oder +48123456789 ohne Leerzeichen ein!"
+      ]
+    },
+    "button": "Melden Sie sich an"
+  },
+  "LocaleLayout": {
+    "title": "kolibry-studio.com"
+  },
+  "LocaleSwitcher": {
+    "label": "Sprache ändern",
+    "locale": "{locale, select, en {🇬🇧} de {🇩🇪} pl {🇵🇱} ua {🇺🇦} other {Unbekannt}}"
+  },
+  "Manifest": {
+    "description": "",
+    "name": "kolibry-studio.com"
+  },
+  "Navigation": {
+    "home": "Hauptsächlich",
+    "services": "Unsere Leistungen",
+    "gallery": "Galerie",
+    "courses": "Kurse",
+    "contacts": "Kontakte"
+  },
+  "NotFoundPage": {
+    "description": "Bitte überprüfe die Addressleiste deines Browsers oder verwende die Navigation um zu einer bekannten Seite zu wechseln.",
+    "title": "Seite nicht gefunden"
+  },
+  "PageLayout": {
+    "links": {
+      "docs": {
+        "description": "Erfahre mehr über next-intl in der offiziellen Dokumentation.",
+        "href": "https://next-intl-docs.vercel.app/",
+        "title": "Dokumentation"
+      },
+      "source": {
+        "description": "Sieh dir den Quellcode dieses Beispiels auf GitHub an.",
+        "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router",
+        "title": "Quellcode"
+      }
+    }
+  },
+  "PathnamesPage": {
+    "description": "<p>Auch die Pfadnamen sind internationalisiert.</p><p>Wenn du die Standardsprache Englisch verwendest, siehst du <code>/en/pathnames</code> in der Adressleiste des Browsers auf dieser Seite.</p><p>Wenn du die Sprache auf Deutsch änderst, wird die URL entsprechend lokalisiert (<code>/de/pfadnamen</code>).</p>",
+    "title": "Pfadnamen"
+  },
+  "footer": {
+    "our_servises": "Unsere Leistungen",
+    "gallery": "Galerie der Werke",
+    "courses": "Schulungen",
+    "contacts_info": "Kontaktinformationen",
+    "about_master": "Über den Meister",
+    "my_works": "Meine Werke auf Instagram",
+    "questions": "Häufig gestellte Fragen"
+  }
+}

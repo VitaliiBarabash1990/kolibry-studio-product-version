@@ -1,0 +1,271 @@
+{
+  "Error": {
+    "description": "<p>Es ist leider ein Problem aufgetreten.</p><p>Du kannst versuchen <retry>diese Seite neu zu laden</retry>.</p>",
+    "title": "Etwas ist schief gelaufen!"
+  },
+  "IndexPage": {
+    "description": "Usługi i kursy klasy premium dla początkujących i profesjonalistów.",
+    "title": "Mistrz przedłużania rzęs z 5-letnim doświadczeniem",
+    "button": "Zapisać się"
+  },
+  "Master": {
+    "title": "O mistrzu",
+    "description": "Witam!\n\nNazywam się Anastazja i jestem certyfikowaną stylistką rzęs z ponad 5-letnim doświadczeniem.\n\nMoim głównym celem jest pomóc każdej klientce poczuć się pewnie i pięknie. Moja podróż zawodowa zaczęła się od szczerego pragnienia tworzyć piękno. Posiadam na koncie 5 certyfikatów potwierdzających wysoki poziom kwalifikacji."
+  },
+  "MyWork": {
+    "title": "Moje prace na Instagramie",
+    "button": "Subscribe"
+  },
+  "Accordion": {
+    "header_title": "Często zadawane pytania",
+    "title": [
+      "Czy przedłużanie rzęs jest bezpieczne?",
+      "Jakie materiały są używane?",
+      "Co obejmuje kursy?",
+      "Jak przygotować się do zabiegu?"
+    ],
+    "content": [
+      "Przedłużanie rzęs może być bezpieczne, jeśli zabieg zostanie wykonany przez profesjonalnego rzemieślnika, przy użyciu wysokiej jakości materiałów i higieny. Należy mieć na uwadze zdrowie oczu i dbać o rzęsy po zabiegu.",
+      "Jakość zabiegu zaczyna się od materiałów. Oto, czego na pewno będziesz potrzebować:\nTaśma - do zabezpieczenia powiek i mocowania dolnych rzęs.\nOdtłuszczacz i zmywacz - narzędzia do przygotowania rzęs przed przedłużaniem i do ich bezpiecznego usunięcia.\nKlej - wysokiej jakości, odporny na wilgoć i temperaturę zmienia się, bo nikt nie chce, żeby rzęsy odpadły już po pierwszej wizycie na basenie.\nPęseta - do różnych technik przedłużania.\nRzęsy - różnej długości, grubość, zginanie.",
+      "Wszystkie niezbędne materiały i narzędzia do szkolenia. Podręczniki metodyczne (drukowane lub elektroniczne). Certyfikat międzynarodowy. Wsparcie lektora w ciągu 1 miesiąca od zakończenia kursu.",
+      "Na 3 dni przed przedłużaniem należy zaprzestać stosowania olejków, serum i innych produktów do pielęgnacji rzęs. To samo tyczy się farbowania – jeśli zajdzie taka potrzeba, należy to zrobić wcześniej, na kilka dni przed zabiegiem."
+    ]
+  },
+  "AccordionServices": {
+    "header_title": "Nasze usługi",
+    "title": [
+      "Usługi przedłużania rzęs",
+      "Laminowanie i lifting",
+      "Pielęgnacja brwi",
+      "Dodatkowe usługi"
+    ],
+    "content_1": {
+      "method": [
+        "Przedłużanie rzęs metodą 1:1",
+        "Przedłużanie rzęs 1:3",
+        "Przedłużanie rzęs 2D",
+        "Przedłużanie rzęs 4D",
+        "Przedłużanie rzęs 5-6D",
+        "Przedłużanie rzęs Mega Volume 7-9D VIP",
+        "Przedłużanie rzęs z efektem L",
+        "Efekt Kim Kardashian",
+        "Efekt „Anime” (3D, 4D, 5D)",
+        "Efekt mokrych rzęs",
+        "Korekta rzęs nawet do 3 tygodni",
+        "Usunięcie rzęs"
+      ],
+      "duration": [
+        "Czas trwania: 2 godziny",
+        "Czas trwania: 2 godziny 30 minut",
+        "Czas trwania: 2 godziny 30 minut",
+        "Czas trwania: 2 godziny 30 minut",
+        "Czas trwania: 2 godziny 45 minut",
+        "Czas trwania: 3 godziny",
+        "Czas trwania: 2 godziny 45 minut",
+        "Czas trwania: 2 godziny 45 minut",
+        "Czas trwania: 2 godziny 45 minut",
+        "Czas trwania: 2 godziny",
+        "Czas trwania: 1 godzina 45 minut",
+        "Czas trwania: 30 min"
+      ],
+      "price": [
+        "180 zl",
+        "200 zl",
+        "190 zl",
+        "210 zl",
+        "220 zl",
+        "240 zl",
+        "200 zl",
+        "220 zl",
+        "240 zl",
+        "190 zl",
+        "160 zl",
+        "40 zl"
+      ]
+    },
+    "content_2": {
+      "method": ["Laminowanie rzęs", "Lifting rzęs i brwi + botoks"],
+      "duration": [
+        "Czas trwania: 1 godzina",
+        "Czas trwania: 1 godzina 30 minut"
+      ],
+      "price": ["150 zl", "250 zl"]
+    },
+    "content_3": {
+      "method": [
+        "Laminowanie brwi",
+        "Korekcja brwi",
+        "Korekcja brwi + henna na brwi",
+        "Henna do brwi",
+        "Henna pudrowa do brwi"
+      ],
+      "duration": [
+        "Czas trwania: 50 min",
+        "Czas trwania: 15 min",
+        "Czas trwania: 30 min",
+        "Czas trwania: 20 min",
+        "Czas trwania: 15 min"
+      ],
+      "price": ["140 zl", "35 zl", "70 zl", "35 zl", "35 zl"]
+    },
+    "content_4": {
+      "method": ["Henna do rzęs", "Depilacja twarzy"],
+      "duration": ["Czas trwania: 20 min", "Czas trwania: 30 min"],
+      "price": ["40 zl", "40 zl"]
+    },
+    "button": "Zapisać się"
+  },
+  "gallery": {
+    "title": "Galeria prac"
+  },
+  "training": {
+    "title": "Szkolenia",
+    "title_2": "Program kursu \"Profesjonalne przedłużanie rzęs\"",
+    "description": "Czas trwania kursu: 3 dni (18 godzin)",
+    "title_3": "Jednostka maturalna",
+    "descr_3": [
+      "Testy końcowe (teoretyczne i praktyczne).",
+      "Prezentacja zaświadczeń o ukończeniu kursu.",
+      "Zalecenia na początek: jak znaleźć pierwszych klientów i rozwijać swój biznes."
+    ],
+    "title_4": "Co jest wliczone w cenę kursu",
+    "descr_4": [
+      "Wszystkie niezbędne materiały i narzędzia do szkolenia.",
+      "Podręczniki metodyczne (drukowane lub elektroniczne).",
+      "Certyfikat międzynarodowy.",
+      "Wsparcie lektora w ciągu 1 miesiąca od zakończenia kursu."
+    ],
+    "section_1": {
+      "section_title": "Dzień 1\nCzęść teoretyczna",
+      "section_text_head": [
+        "Wprowadzenie: Podstawy zawodu",
+        "Higiena i bezpieczeństwo",
+        "Anatomia rzęs i oczu",
+        "Materiały i narzędzia",
+        "Miejsce pracy mistrza"
+      ],
+      "section_text": [
+        "Czym jest przedłużanie rzęs, główne Przegląd aktualnych trendów (1:1, 2D-9D, „Kim Kardashian”, efekt mokry)",
+        "Normy sanitarne i sterylne Zasady pracy z klientami w zakresie konserwacji",
+        "Rodzaje rzęs: naturalne cechy i struktury Jak określić optymalny styl przedłużeń w zależności od kształtu oczu.",
+        "Przegląd narzędzi: pęseta, klej, podkładki, pędzle. Rodzaje sztucznych rzęs: grubość, podkręcenie, długość, materiał.",
+        "Jak zorganizować wygodne i ergonomiczne miejsce do pracy. Psychologia komunikacji z klientem."
+      ],
+      "button": "Zapisać się"
+    },
+    "section_2": {
+      "section_title": "Dzień 2\nĆwiczenie na modelach treningowych",
+      "section_text_head": [
+        "Przygotowanie do zabiegu",
+        "Metody budowania",
+        "Nauka pracy z klejem",
+        "Praca z kształtami oczu"
+      ],
+      "section_text": [
+        "Jak prawidłowo przygotować rzęsy naturalne do przedłużania. Pokaz i praktyka przygotowania rzęs.",
+        "Klasyczna konfiguracja (1:1). Augmentacja wolumetryczna (2D-9D). Efekty modelujące: \"koci wygląd\", \"efekt mokry\", \"Kim Kardashian\".",
+        "Technika aplikacji kleju. Jak uniknąć sklejania rzęs.",
+        "Dobór długości, krzywizny i objętości w zależności od twarzy klientki. Ćwicz na manekinach."
+      ],
+      "button": "Zapisać się"
+    },
+    "section_3": {
+      "section_title": "Dzień 3\nĆwiczenie na prawdziwych modelach",
+      "section_text_head": [
+        "Pełna procedura budowania",
+        "Korekta i usuwanie rzęs",
+        "Pracuj z sytuacjami problemowymi",
+        "Zdjęcia prac do portfolio"
+      ],
+      "section_text": [
+        "Pracuj z pierwszym modelem pod okiem nauczyciela. Korekcja błędów i udoskonalenia techniczne.",
+        "Jak prawidłowo wykonać korekcję. Technika bezpiecznego usuwania przedłużonych rzęs.",
+        "Jak skorygować błędy i asymetrię. Pracuj z trudnymi klientami.",
+        "Jak prawidłowo sfotografować swoją pracę. Budowanie własnej marki w sieciach społecznościowych."
+      ],
+      "button": "Zapisać się"
+    }
+  },
+  "contacts": {
+    "title": "Informacje kontaktowe",
+    "schedule": "Harmonogram pracy z",
+    "google_map": "Plać wolnosci Swiności 5/8, Poland, 72-600 Swinoujscie"
+  },
+  "formik": {
+    "title": "Wypełnij formularz:",
+    "name": "Twoje imię:",
+    "email": "E-mail::",
+    "number": "Numer telefonu:",
+    "placeholder": [
+      "Wpisz nazwę",
+      "Wpisz adres e-mail",
+      "Wpisz swój numer telefonu"
+    ],
+    "yup": {
+      "name": [
+        "TYLKO SŁOWA",
+        "Minimum 3 znaki!",
+        "Maksymalnie 30 znaków!",
+        "To pole jest wymagane!"
+      ],
+      "email": [
+        "Nieprawidłowy adres e-mail!",
+        "Wprowadź prawidłowy adres e-mail!"
+      ],
+      "number": [
+        "Nieprawidłowy numer telefonu!",
+        "Wprowadź numer w formacie +380123456789 lub +48123456789 bez spacji!"
+      ]
+    },
+    "button": "Zapisać się"
+  },
+  "LocaleLayout": {
+    "title": "kolibry-studio.com"
+  },
+  "LocaleSwitcher": {
+    "label": "Sprache ändern",
+    "locale": "{locale, select, en {🇬🇧} de {🇩🇪} pl {🇵🇱} ua {🇺🇦} other {Unbekannt}}"
+  },
+  "Manifest": {
+    "description": "",
+    "name": "kolibry-studio.com"
+  },
+  "Navigation": {
+    "home": "Główny",
+    "services": "Nasze usługi",
+    "gallery": "Galeria",
+    "courses": "Kursy",
+    "contacts": "Łączność"
+  },
+  "NotFoundPage": {
+    "description": "Bitte überprüfe die Addressleiste deines Browsers oder verwende die Navigation um zu einer bekannten Seite zu wechseln.",
+    "title": "Seite nicht gefunden"
+  },
+  "PageLayout": {
+    "links": {
+      "docs": {
+        "description": "Erfahre mehr über next-intl in der offiziellen Dokumentation.",
+        "href": "https://next-intl-docs.vercel.app/",
+        "title": "Dokumentation"
+      },
+      "source": {
+        "description": "Sieh dir den Quellcode dieses Beispiels auf GitHub an.",
+        "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router",
+        "title": "Quellcode"
+      }
+    }
+  },
+  "PathnamesPage": {
+    "description": "<p>Auch die Pfadnamen sind internationalisiert.</p><p>Wenn du die Standardsprache Englisch verwendest, siehst du <code>/en/pathnames</code> in der Adressleiste des Browsers auf dieser Seite.</p><p>Wenn du die Sprache auf Deutsch änderst, wird die URL entsprechend lokalisiert (<code>/de/pfadnamen</code>).</p>",
+    "title": "Pfadnamen"
+  },
+  "footer": {
+    "our_servises": "Nasze usługi",
+    "gallery": "Galeria prac",
+    "courses": "Szkolenia",
+    "contacts_info": "Informacje kontaktowe",
+    "about_master": "O mistrzu",
+    "my_works": "Moje prace na Instagramie",
+    "questions": "Często zadawane pytania"
+  }
+}
