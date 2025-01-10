@@ -23,6 +23,7 @@ export function MyWork() {
   const t = useTranslations('MyWork');
   return (
     <div id="my_works" className={`container ${s.mywork__container}`}>
+      <h2 className={s.mywork__title_mobile}>{t('title')}</h2>
       <div className={s.mywork__wrap}>
         <div className={s.mywork__head}>
           <h2 className={s.mywork__title}>{t('title')}</h2>
