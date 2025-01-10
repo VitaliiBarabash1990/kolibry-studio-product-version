@@ -24,7 +24,7 @@
 }
 
 .experience__left {
-  padding-top: 62px;
+  padding-top: 54px;
   padding-left: 16px;
   padding-right: 16px;
   text-align: left;
@@ -52,7 +52,7 @@
 .experience__title {
   font-family: var(--font-family);
   font-weight: 400;
-  font-size: 24px;
+  font-size: 22px;
   color: var(--grey-h);
 }
 
@@ -65,7 +65,7 @@
 
 .experience__right_img_front {
   position: absolute;
-  top: 44px;
+  top: 48px;
   left: -2px;
   min-width: 82%;
   aspect-ratio: 4 / 4.1;
@@ -108,7 +108,10 @@
     width: 13px;
   }
   .experience__button {
-    width: 335px;
+    width: 343px;
+  }
+  .experience__title {
+    font-size: 24px;
   }
 }
 

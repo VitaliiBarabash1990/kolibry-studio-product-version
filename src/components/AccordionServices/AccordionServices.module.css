@@ -26,7 +26,7 @@
   background: var(--background-accordion);
   box-shadow: 0 2px 2px 0 rgba(249, 145, 230, 0.25);
   color: var(--text-black);
-  padding: 19px 4px;
+  padding: 22px 10px;
   cursor: pointer;
   display: flex;
   justify-content: space-between;
@@ -52,12 +52,12 @@
 }
 
 .accordion__icon_arrow {
-  rotate: 360deg;
+  rotate: 180deg;
   transition-duration: 400ms;
 }
 
 .accordion__icon_arrow_top {
-  rotate: 180deg;
+  rotate: 360deg;
   transition-duration: 400ms;
 }
 
@@ -124,7 +124,7 @@
 
 @media screen and (max-width: 374px) {
   .accordion__toggle_title {
-    font-size: 14px;
+    font-size: 12px;
   }
   .isOpen {
     font-size: 14px;
@@ -170,7 +170,7 @@
   /* accordion */
 
   .services__accordion_item {
-    border-bottom: 1px solid var(--text-black);
+    border-bottom: 1px solid var(--acordion-border);
     padding: 24px;
     /* height: 137px; */
     display: flex;

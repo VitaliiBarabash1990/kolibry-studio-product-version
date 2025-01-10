@@ -12,6 +12,7 @@
   font-weight: 400;
   font-size: 20px;
   color: var(--text-black);
+  align-self: flex-start;
 }
 .mywork__text {
   display: inline-flex;
@@ -59,7 +60,7 @@
 }
 .mywork__link_text {
   width: 50%;
-  background-color: var(--background-button-group);
+  background-color: transparent;
 }
 .mywork__gallary {
   display: flex;
