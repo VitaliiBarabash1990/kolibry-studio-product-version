@@ -224,7 +224,8 @@
     "button": "Melden Sie sich an"
   },
   "LocaleLayout": {
-    "title": "kolibry-studio.com"
+    "title": "kolibry-studio-litvichenko",
+    "description": "kolibry-studio"
   },
   "LocaleSwitcher": {
     "label": "Sprache ändern",

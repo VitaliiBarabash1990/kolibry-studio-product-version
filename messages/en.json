@@ -187,9 +187,6 @@
       "button": "Sign up"
     }
   },
-  "LocaleLayout": {
-    "title": "kolibry-studio.com"
-  },
   "contacts": {
     "title": "Contact information",
     "schedule": "Work schedule with",
@@ -215,6 +212,10 @@
       ]
     },
     "button": "Sign up"
+  },
+  "LocaleLayout": {
+    "title": "kolibry-studio-litvichenko",
+    "description": "kolibry-studio"
   },
   "LocaleSwitcher": {
     "label": "Change language",

@@ -21,7 +21,7 @@ export async function generateMetadata({
   return {
     title: t('title'),
     icons: {
-      icon: '/icon-eyelashes.png'
+      icon: '/game-icons_eyelashes.png'
     }
   };
 }
