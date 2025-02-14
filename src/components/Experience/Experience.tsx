@@ -5,13 +5,20 @@ import s from './Experience.module.css';
 import Modal from '../Modal/Modal';
 import {useState} from 'react';
 import RegistrationForm from '../UI/RegistrationForm/RegistrationForm';
+import NewModal from '../UI/NewModal/NewModal';
 
 export function Experience() {
   const [isOpenModal, setIsOpenModal] = useState(false);
+  const [isRegisterPage, setIsRegisterPage] = useState(false);
   const t = useTranslations('IndexPage');
 
   const toggleModal = () => {
     setIsOpenModal((prev) => !prev);
+    setIsRegisterPage(false);
+  };
+
+  const toggleModalRegister = () => {
+    setIsRegisterPage((prev) => !prev);
   };
 
   return (
@@ -28,7 +35,11 @@ export function Experience() {
         </button>
         {isOpenModal && (
           <Modal close={toggleModal}>
-            <RegistrationForm />
+            {isRegisterPage ? (
+              <RegistrationForm onClose={toggleModal} />
+            ) : (
+              <NewModal toggleModalRegister={toggleModalRegister} />
+            )}
           </Modal>
         )}
       </div>

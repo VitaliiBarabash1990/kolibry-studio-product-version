@@ -13,6 +13,11 @@ const Modal = ({children, close}: ModalProps) => {
   useEffect(() => {
     const root = document.querySelector('#modal-root') as HTMLElement | null;
     setModalRoot(root);
+    document.body.style.overflow = 'hidden';
+
+    return () => {
+      document.body.style.overflow = '';
+    };
   }, []);
 
   if (!modalRoot) {

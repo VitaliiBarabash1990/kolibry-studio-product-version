@@ -32,7 +32,9 @@ export function MyWork() {
               <p className={s.mywork__text}>@kolibry_studioo</p>
             </li>
             <li className={s.mywork__link}>
-              <CustomLink href="@kolibry_studioo">{t('button')}</CustomLink>
+              <CustomLink href="https://www.instagram.com/kolibry_studioo/">
+                {t('button')}
+              </CustomLink>
             </li>
           </ul>
         </div>

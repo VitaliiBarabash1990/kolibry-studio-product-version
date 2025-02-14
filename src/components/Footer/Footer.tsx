@@ -53,14 +53,14 @@ export default function Footer() {
           <li className={s.footer__contact_item}>
             <ul className={s.footer__soc_icon}>
               <li>
-                <CustomLink href="http://facebook.com">
+                <CustomLink href="https://www.facebook.com/profile.php?id=100039420919773&ref=ig_profile_ac">
                   <svg className={s.footer__icon_link_soc}>
                     <use href="/symbol-defs.svg#icon-logos_facebook" />
                   </svg>
                 </CustomLink>
               </li>
               <li>
-                <CustomLink href="http://instagram.com">
+                <CustomLink href="https://www.instagram.com/kolibry_studioo/">
                   <img
                     alt="instagram_icon"
                     className={s.footer__icon_link_soc}
@@ -80,32 +80,32 @@ export default function Footer() {
           <li className={s.footer__contact_item}>
             <Link
               className={s.footer__contact_link}
-              href={'tel:+38 (XXX) XXX-XX-XX' as unknown as '/'}
+              href={'tel:+48 729-265-475' as unknown as '/'}
               rel="stylesheet"
             >
               <svg className={s.footer__icon_link}>
                 <use href="/symbol-defs.svg#icon-tel" />
               </svg>
-              +38 (XXX) XXX-XX-XX
+              +48 729-265-475
             </Link>
           </li>
           <li className={s.footer__contact_item}>
             <Link
               className={s.footer__contact_link}
-              href={'mailto:info@вашсайт.com' as unknown as '/'}
+              href={'mailto:pretty.emets@gmail.com' as unknown as '/'}
               rel="stylesheet"
             >
               <svg className={s.footer__icon_link}>
                 <use href="/symbol-defs.svg#icon-mail" />
               </svg>
-              info@вашсайт.com
+              pretty.emets@gmail.com
             </Link>
           </li>
           <li className={s.footer__contact_item}>
             <Link
               className={s.footer__contact_link}
               href={
-                'https://maps.app.goo.gl/DrGRC5HF7QuNUNvf7' as unknown as '/'
+                'https://maps.app.goo.gl/a7ax7RqMjudyUKFt8' as unknown as '/'
               }
               rel="stylesheet"
               target="_blank"
@@ -114,7 +114,7 @@ export default function Footer() {
                 <use href="/symbol-defs.svg#icon-map-pin" />
               </svg>
               <p className={s.footer__contact_link_text}>
-                Plać wolnosci Swiności 5/8, Poland, 72-600 Swinoujscie
+                Armii Krajowej 12, lokal 21, 72-600, Świnoujście
               </p>
             </Link>
           </li>

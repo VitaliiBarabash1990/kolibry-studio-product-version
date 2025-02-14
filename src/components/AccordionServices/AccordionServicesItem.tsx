@@ -3,6 +3,7 @@ import React, {useState} from 'react';
 import s from './AccordionServices.module.css';
 import Modal from '../Modal/Modal';
 import RegistrationForm from '../UI/RegistrationForm/RegistrationForm';
+import NewModal from '../UI/NewModal/NewModal';
 
 type ContentItem = {
   method: string;
@@ -26,9 +27,15 @@ export function AccordionItem({
   button
 }: AccordionProps) {
   const [isOpenModal, setIsOpenModal] = useState(false);
+  const [isRegisterPage, setIsRegisterPage] = useState(false);
 
   const toggleModal = () => {
     setIsOpenModal((prev) => !prev);
+    setIsRegisterPage(false);
+  };
+
+  const toggleModalRegister = () => {
+    setIsRegisterPage((prev) => !prev);
   };
 
   return (
@@ -102,7 +109,11 @@ export function AccordionItem({
       )}
       {isOpenModal && (
         <Modal close={toggleModal}>
-          <RegistrationForm />
+          {isRegisterPage ? (
+            <RegistrationForm onClose={toggleModal} />
+          ) : (
+            <NewModal toggleModalRegister={toggleModalRegister} />
+          )}
         </Modal>
       )}
     </div>

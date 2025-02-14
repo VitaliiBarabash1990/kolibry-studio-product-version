@@ -8,6 +8,10 @@
     "title": "Eyelash extension master with 5 years of experience",
     "button": "Sign up"
   },
+  "ModalSignUp": {
+    "title_v1": "Sign up through the service:",
+    "title_v2": "Sign up by Gmail:"
+  },
   "Master": {
     "title": "About the master",
     "description": "Hello!\n\nMy name is Anastasia and I am a certified eyelash extension artist with over 5 years of experience.\n\nMy main goal is to help each client feel confident and beautiful. My professional journey began with a sincere desire to create beauty. I have 5 certificates on my account confirming a high level of qualification."

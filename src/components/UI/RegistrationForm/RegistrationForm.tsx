@@ -10,7 +10,11 @@ interface FormValues {
   number: string;
 }
 
-export default function RegistrationForm() {
+interface Props {
+  onClose: () => void;
+}
+
+export default function RegistrationForm({onClose}: Props) {
   const t = useTranslations('formik');
 
   const initialValues: FormValues = {
@@ -72,6 +76,7 @@ export default function RegistrationForm() {
       console.error('Ошибка отправки:', error);
       toast.error('Ошибка при отправке сообщения.');
     }
+    onClose();
   };
 
   return (

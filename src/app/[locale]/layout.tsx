@@ -19,7 +19,10 @@ export async function generateMetadata({
   const t = await getTranslations({locale, namespace: 'LocaleLayout'});
 
   return {
-    title: t('title')
+    title: t('title'),
+    icons: {
+      icon: '/icon-eyelashes.png'
+    }
   };
 }
 

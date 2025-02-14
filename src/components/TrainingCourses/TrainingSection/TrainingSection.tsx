@@ -4,6 +4,7 @@ import React, {useState} from 'react';
 import s from './TrainingSection.module.css';
 import Modal from '@/components/Modal/Modal';
 import RegistrationForm from '@/components/UI/RegistrationForm/RegistrationForm';
+import NewModal from '@/components/UI/NewModal/NewModal';
 
 type TrainingItem = {
   title: string;
@@ -22,8 +23,15 @@ export default function TrainingSection({
   button
 }: TrainingProps) {
   const [isOpenModal, setIsOpenModal] = useState(false);
+  const [isRegisterPage, setIsRegisterPage] = useState(false);
+
   const toggleModal = () => {
     setIsOpenModal((prev) => !prev);
+    setIsRegisterPage(false);
+  };
+
+  const toggleModalRegister = () => {
+    setIsRegisterPage((prev) => !prev);
   };
 
   return (
@@ -57,7 +65,11 @@ export default function TrainingSection({
       </button>
       {isOpenModal && (
         <Modal close={toggleModal}>
-          <RegistrationForm />
+          {isRegisterPage ? (
+            <RegistrationForm onClose={toggleModal} />
+          ) : (
+            <NewModal toggleModalRegister={toggleModalRegister} />
+          )}
         </Modal>
       )}
     </div>
